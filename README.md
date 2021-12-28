@@ -1,9 +1,13 @@
 # Curso de Laravel 5.3
 ## CODECASTS (Fábio Vedovelli)
 
-### [Vídeos do curso](https://www.youtube.com/watch?v=25JnwUAH99U&list=PLy5T05I_eQYM4-B6W374JkAuh_wOrs3Pj)
+### Instalação de dependências
 
-### Lista de aulas  
+```bash
+composer install
+```
+
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=25JnwUAH99U&list=PLy5T05I_eQYM4-B6W374JkAuh_wOrs3Pj)  
 
 Aula 01 - Introdução  
 Aula 02 - Criando o projeto  
